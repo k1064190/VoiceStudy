@@ -1,0 +1,7 @@
+data
+00prepare
+01compute_features
+02dp_matching
+03gmm_hmm
+.idea
+__pycache__
